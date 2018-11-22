@@ -1,0 +1,5 @@
+[master]
+master01 ansible_ssh_host=10.0.0.200
+[node]
+node01 ansible_ssh_host=10.0.0.201
+node02 ansible_ssh_host=10.0.0.202
